@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 It's a simple visualization app built with React and Typescript. For visualization charts, [amCharts library](https://www.amcharts.com/)
 
-**The project is still in WIP state, currently the charts values are hardcoded**
+**This project is still in WIP state, currently the charts' values are hardcoded, the code is in a runnable state**
 
 
 ## Available Scripts
